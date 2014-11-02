@@ -164,7 +164,6 @@ static unsigned golfu_perf_acpu_table[] = {
        245760000,
        480000000,
        600000000,
-       828000000,
 };
 
 static struct perflock_platform_data golfu_perflock_data = {
